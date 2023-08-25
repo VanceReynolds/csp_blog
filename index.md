@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Blog
+title: Vance's CSP Blog
 ---
 
 
@@ -24,10 +24,10 @@ AP Computer Science Principles
 
 ### Not included in this image are:
 - My favorite food: Steak
-- Me gustan los gatos tontos
 - My favorite artist (Dj Kahled)
+- Me encanta los gatos tontos
 
-![Alt text](images/goddid.gif)
+![Alt text](images/cargif.gif)
 
 ---
 
