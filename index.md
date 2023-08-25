@@ -41,7 +41,7 @@ AP Computer Science Principles
 - After getting my website up and running and editing its appearance, I found that I didn't have the ability to commit to my repository. This could have been caused by a number of different issues. However, with Mr. Mortenson's help, the problem was resolved by installing extensions like Remote SSH and its components.
 
 ---
-## HTML Tetris Game
+## HTML Tetris
 
 <body>
 <canvas width="320" height="640" id="game"></canvas>
